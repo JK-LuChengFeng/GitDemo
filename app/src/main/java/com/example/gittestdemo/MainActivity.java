@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private Button btn_jump;
     private TextView tv_disply;
+    private Button btn_display;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
