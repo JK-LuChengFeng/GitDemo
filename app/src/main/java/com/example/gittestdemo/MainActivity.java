@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btn_jump:
                 startActivity(new Intent(MainActivity.this,Main2Activity.class));
                 break;
+
         }
     }
 }
