@@ -27,6 +27,6 @@ public class Main2Activity extends AppCompatActivity {
     }
 
     private void initView() {
-
+        tv_branchtest = findViewById(R.id.tv_testBranch);
     }
 }
